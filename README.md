@@ -1,5 +1,5 @@
 <div style="display: flex; align-items: center; justify-content: center;">
-  <img src="https://www.linkpicture.com/q/favicon_27.png" alt="Icon" width="50" height="50">
+ <img src="/src/assets/images/favicon.png" alt="Icon" width="50" height="50">
 
 </div>
   <h2 align="center">MAKS HR Management System</h2>
